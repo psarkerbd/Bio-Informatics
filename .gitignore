@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.exe
+BioInfoCPP/Task-03/countDNANucleotides.o
+*.o
